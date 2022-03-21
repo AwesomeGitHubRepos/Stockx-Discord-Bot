@@ -1,6 +1,8 @@
 # Stockx-Discord-Bot
 This project is a discord bot that uses the Algolia search API to search products and uses that information in StockX's API to return data on a particular sneaker or piece of clothing.
 
+**This project is now deprecated due to StockX security and API changes.**
+
 # Motivation
 The goal was to create something that people in the sneaker community would be able to use in their discord groups for free. Being able to visualize all the data on a sneaker at once without having to click and scroll is convenient and saves people time.
 
